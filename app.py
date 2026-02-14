@@ -17,7 +17,7 @@ Designed for business leaders who need fast strategic awareness.
 
 Created by Deepa Shenoy
 
-**GitHub:** [View Source Code](https://github.com/DeepaShenoy/executive-news-intelligence)
+**GitHub:** [View Source Code](https://github.com/ds2204/executive-news-intelligence)
 """)
 
 # -----------------------------
