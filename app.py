@@ -15,7 +15,9 @@ This tool analyzes structured technology news scenarios and generates executive-
 The intelligence logic replicates the rule-based engine built in Assignment 4 using n8n.
 Designed for business leaders who need fast strategic awareness.
 
-Created by Deepa Shenoy.
+Created by Deepa Shenoy
+
+**GitHub:** [View Source Code](https://github.com/DeepaShenoy/executive-news-intelligence)
 """)
 
 # -----------------------------
